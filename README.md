@@ -1,4 +1,14 @@
-## Hello there 👋
+## Hi, I'm Andrea 👋
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Andrea%20Meneghello-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/andrea-meneghello-4a554b295)
+[![Gmail](https://img.shields.io/badge/Gmail-Andrea%20Meneghello-red?logo=gmail&style=flat-square)](mailto:andreameneghello828@gmail.com)
+
+<p><em>🎓 Graduated in Computer Science from the University of Padua <br> 💼 Software Engineer at <a href="https://www.thron.com/it/">THRON
+</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+</em></p>
+
+### 🧑‍💻 Me, in Go
+Ever wondered what a software engineer looks like in Go code? Let me show you.
 
 ```golang
 package main
@@ -48,3 +58,11 @@ func main() {
 	me.SayHi()
 }
 ```
+
+### 🌱 I'm currently learning:  
+  Backend development with Go, focusing on microservices architecture and serverless patterns.
+
+### ✨ Fun facts:  
+  🇮🇹 Based in Italy  
+  🧠 Always curious and passionate about learning new technologies  
+  📚 Currently diving deep into backend development with Go

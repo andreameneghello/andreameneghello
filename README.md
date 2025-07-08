@@ -92,7 +92,7 @@ I'm focusing on advanced backend development with Go, particularly:
 
 ### 📫 Get in Touch
 
-- LinkedIn: [Andrea Meneghello](https://www.linkedin.com/in/andrea-meneghello-4a554b295)
+- LinkedIn: [Andrea Meneghello](https://www.linkedin.com/in/meneghelloandrea)
 - Email: [andreameneghello828@gmail.com](mailto:andreameneghello828@gmail.com)
 
 ---
